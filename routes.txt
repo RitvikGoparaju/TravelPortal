@@ -1,0 +1,5 @@
+Bangalore Mumbai 1000 90 3.2 8.5 15
+Jaipur Delhi 400 60 5.0 9.5 10
+Guwahati Hyderabad 700 80 2.7 10.5 10
+Coimbatore Ahmedabad 1200 120 5 7 20
+Bangalore Hyderabad 500 70 6.0 9.0 7

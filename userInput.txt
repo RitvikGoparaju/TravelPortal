@@ -1,0 +1,20 @@
+Jaipur Delhi
+sort price ascending
+sort time descending
+buy cheapest
+buy earliest
+Guwahati Hyderabad
+sort duration descending
+buy latest
+buy cheapest
+Jaipur Delhi
+sort price descending
+Bangalore Hyderabad
+sort price descending
+buy cheapest 5047-A
+buy earliest 5047-A
+buy fastest 5047-A
+sort time ascending
+buy cheapest 5047-B
+buy latest 5047-B
+buy earliest 5047-B

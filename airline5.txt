@@ -1,0 +1,5 @@
+30
+Bangalore Hyderabad 3
+Jaipur Delhi 4
+Guwahati Hyderabad 2
+Coimbatore Ahmedabad 5
